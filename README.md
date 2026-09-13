@@ -9,7 +9,7 @@
 Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabriel N. Meloni](https://www.funiilab.com/people) developing low-cost instrumentation for education and research!
 
 ---
-  
-<sub style="color:grey">
+
+<sub style="color:gray">
   Icon made by Marcela de Souza Nogueira (peqs) 🐸
 </sub>
