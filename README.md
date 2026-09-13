@@ -10,6 +10,6 @@ Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabr
 
 ---
   
-<p style="color: green; font-size: 12px;">
+<sub>
   Icon made by Marcela de Souza Nogueira (peqs) 🐸
-</p>
+</sub>
