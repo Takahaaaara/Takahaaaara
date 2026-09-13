@@ -2,7 +2,7 @@
 
 [Chemistry](https://www.youtube.com/watch?v=RZWl7CMRmMc) undergraduate at the University of São Paulo (Brazil), interested in automation and instrumentation. Always starting a new project and collecting pieces of knowledge, from art to science.
 ![visual using hydra](./assests/03.png)
-*visual synth using [hydra](https://hydra.ojack.xyz/) :snake:*
+<center>*visual synth using [hydra](https://hydra.ojack.xyz/) :snake:* </center>
 
 ## Academic
 
@@ -10,6 +10,6 @@ Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabr
 
 ---
 
-<sub style="color:gray">
+<sub style="color:green">
   Icon made by Marcela de Souza Nogueira (peqs) 🐸
 </sub>
