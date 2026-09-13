@@ -8,6 +8,6 @@
 
 Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabriel N. Meloni](https://www.funiilab.com/people) developing low-cost instrumentation for education and research!
 
-<div id="note1" style="font-size: 0.85em; color: gray;">
-    * Icon by Marcela de Souza Nogueira (peqs) :frog:
-</div>
+---
+  
+<div id="note1" style="font-size: 0.85em; color: gray;"> icon made by Marcela de Souza Nogueira (peqs) :frog: </div>
