@@ -8,4 +8,4 @@
 
 Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabriel N. Meloni](https://www.funiilab.com/people) developing low-cost instrumentation for education and research!
 
-[^1]:Icon by Marcela de Souza Nogueira (pesqs):frog:
+[^1]:Icon by Marcela de Souza Nogueira (pesqs) :frog:
