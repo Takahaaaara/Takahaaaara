@@ -5,4 +5,4 @@ Chemistry undergraduate at the University of São Paulo (Brazil), interested in 
 : visual synth using [hydra](hydra.ojcak.xyz)
 ## Academic
 
-Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabriel N. Meloni](https://www.funiilab.com/people) developing low-cost instrumentation 
+Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabriel N. Meloni](https://www.funiilab.com/people) developing low-cost instrumentation
