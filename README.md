@@ -10,4 +10,6 @@ Working at [FuNIILab](https://www.funiilab.com) under supervision of [Prof. Gabr
 
 ---
   
-<div id="note1" style="font-size: 0.5em; color: green;"> icon made by Marcela de Souza Nogueira (peqs) :frog: </div>
+<p style="color: green; font-size: 12px;">
+  Icon made by Marcela de Souza Nogueira (peqs) 🐸
+</p>
